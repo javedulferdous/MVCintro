@@ -1,0 +1,36 @@
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.dll.config
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.pdb
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Helpers.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Mvc.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Razor.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Razor.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Helpers.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Mvc.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 24\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.pdb
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.dll.config
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\HelloMVCApp.pdb
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Helpers.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Mvc.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Razor.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Deployment.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Razor.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Razor.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Deployment.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Webpages.Razor.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Helpers.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\bin\System.Web.Mvc.xml
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.csprojResolveAssemblyReference.cache
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.dll
+G:\Extra Curriculer Activity\BASIS BITM\Video\14.08.2016\14.08.2016\HelloMVCApp\HelloMVCApp\obj\Debug\HelloMVCApp.pdb
