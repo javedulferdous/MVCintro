@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -55,10 +55,10 @@ namespace HelloMVCApp.Controllers
         }
 
 
-        public List<Item> GetAll(int id)
+        public List<Item> GetAll(int Id)
         {
 
-            return itemManager.GettAll(id);
+            return itemManager.GettAll(Id);
             //return new List<Item>()
             //{
             //    new Item() {Id = 1, ItemName = "Laptop", UnitPrice = 15454},
